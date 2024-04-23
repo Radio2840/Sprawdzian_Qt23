@@ -8,7 +8,6 @@ from layout import Ui_Dialog
 
 
 class MyForm(QDialog):
-
     sum_of_calories = 0
     men_table = [1900, 2200, 2500]
     women_table = [1700, 1900, 2100]
